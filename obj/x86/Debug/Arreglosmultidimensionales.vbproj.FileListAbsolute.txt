@@ -1,0 +1,9 @@
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\bin\Debug\Arreglosmultidimensionales.exe
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\bin\Debug\Arreglosmultidimensionales.pdb
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\bin\Debug\Arreglosmultidimensionales.xml
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\obj\x86\Debug\Arreglosmultidimensionales.Form1.resources
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\obj\x86\Debug\Arreglosmultidimensionales.Resources.resources
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\obj\x86\Debug\Arreglosmultidimensionales.vbproj.GenerateResource.Cache
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\obj\x86\Debug\Arreglosmultidimensionales.exe
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\obj\x86\Debug\Arreglosmultidimensionales.xml
+C:\Users\YOGA 500-14ACL\Documents\Programador\Arreglosmultidimensionales\Arreglosmultidimensionales\obj\x86\Debug\Arreglosmultidimensionales.pdb
